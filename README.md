@@ -2,6 +2,6 @@
 
 ## Tool
 
-## Data
+## Dataset
 
-Available in this repository under `dataSets`.
+DOI: 10.5281/zenodo.6480177
