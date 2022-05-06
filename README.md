@@ -1,5 +1,9 @@
 # SynopSet
 
+SynopSet introduction video: https://youtu.be/AKrQ1P0v2vQ
+
+SynopSpace explanation video: https://youtu.be/OtOaK-8x1hA
+
 ## Tool
 
 ## Dataset
